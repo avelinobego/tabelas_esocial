@@ -1,0 +1,34 @@
+versão=1 CODANALISE, DESCRICAO, DTINICIO, DTFIM, MATERIABIO, AGENTEQUIM
+01.1|P-aminofenol|01012014||1;2|01
+01.2|Metahemoglobina|01012014||1;2|01
+01.3|P-aminofenol e Metahemoglobina|01012014||1;2|01
+02.1|Arsênico|01012014||1|02
+03.1|Cádmio|01012014||1|03
+04.1|Chumbo e Ác. delta amino levulínico|01012014||1;2|04
+04.2|Zincoprotoporfirina|01012014||2|04
+05.1|Chumbo|01012014||1|05
+06.1|Cromo|01012014||1|06
+07.1|Carboxihemoglobina|01012014||2|07
+08.1|N-Metilformamida|01012014||1|08
+09.1|Ác. 2-Tio-Tiazolidina|01012014||1|09
+10.1|Acetil-Colinesterase Eritrocitária|01012014||2|10
+10.2|Colinesterase Plasmática|01012014||2|10
+10.3|Colinesterase Eritrocitária e Plasmática (sangue total)|01012014||2|10
+11.1|Ác. Mandélico|01012014||1|11
+11.2|Ác. Fenil-Glioxilico|01012014||1|11
+11.3|Ác. Mandélico e Ác. Fenil-Glioxilico|01012014||1|11
+12.1|Ác. Mandélico|01012014||1|12
+13.1|Fenol|01012014||1|13
+14.1|Fluoreto|01012014||1|14
+15.1|Mercúrio|01012014||1|15
+16.1|Metanol|01012014||1|16
+17.1|Metil-Etil-Cetona|01012014||1|17
+18.1|Carboxihemoglobina|01012014||2|18
+19.1|2,5 Hexanodiona|01012014||1|19
+20.1|Metahemoglobina|01012014||2|20
+21.1|Pentaclorofenol|01012014||1|21
+22.1|Ác. Tricloroacético|01012014||1|22
+23.1|Ác. Hipúrico|01012014||1|23
+24.1|Triclorocompostos Totais|01012014||1|24
+25.1|Triclorocompostos Totais|01012014||1|25
+26.1|Ác. Metil-Hipúrico|01012014||1|26

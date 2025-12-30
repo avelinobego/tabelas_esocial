@@ -1,0 +1,47 @@
+versão=1 CODIGO, DESCRICAO, DTINICIO, DTFIM
+0201|Declaração das Instalações  NR2|01012018|
+0501|Mapa de Riscos  NR5|01012018|
+0701|Programa de Controle Médico de Saúde Ocupacional (PCMSO)  NR7|01012018|
+0702|Relatório Anual do PCMSO  NR7|01012018|
+0703|Kit Primeiros Socorros  NR7|01012018|
+0704|Programa de Conservação Auditiva (PCA)  Anexo I, Quadro II, NR7|01012018|
+0901|Programa de Prevenção de Riscos Ambientais (PPRA)  NR9|01012018|
+0902|Análise Global do PPRA  NR9|01012018|
+1001|Prontuário das Instalações Elétricas  NR10|01012018|
+1002|Diagramas unifilares  NR10|01012018|
+1003|Plano de Emergência  NR10|01012018|
+1201|Inventário das máquinas e equipamentos  NR12|01012018|
+1202|Plano de movimentação de carga (Plano de Rigging)  NR12|01012018|
+1203|Plano de movimentação de pessoas  NR12|01012018|
+1301|Plano de Ação (Vasos de pressão sem códigos de projeto)  NR13|01012018|
+1302|Plano de Inspeção (Tubulações)  NR13|01012018|
+1303|Plano de Manutenção (Tubulações de vapor de água e acessórios)  NR13|01012018|
+1304|Programa de Inspeção (Tubulações)  NR13|01012018|
+1501|Programa de Prevenção à Exposição Ocupacional ao Benzeno (PPEOB)  Anexo 13, NR15|01012018|
+1701|Análise Ergonômica do Trabalho (AET)  NR17|01012018|
+1702|Programa de vigilância epidemiológica  Anexo II, NR17|01012018|
+1801|Plano de Emergência  NR18|01012018|
+1802|Plano de cargas para Gruas  NR18|01012018|
+1803|Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção (PCMAT)  NR18|01012018|
+1804|Programa de Manutenção Preventiva (Equipamentos de movimentação e transporte de materiais e ou pessoas)  NR18|01012018|
+1805|Programa de manutenção preventiva para PTA - Plataformas de Transporte Aéreo  NR18|01012018|
+1901|Plano de Emergência e Combate a Incêndio e Explosão  Anexo I, NR19|01012018|
+1902|Plano de manutenção preventiva de máquinas e equipamentos  Anexo I, NR19|01012018|
+1903|Procedimentos operacionais para fabricação, armazenamento e manipulação de produtos ou misturas explosivas  Anexo I, NR19|01012018|
+1904|Inventário geral dos riscos  Anexo I, NR19|01012018|
+1905|Inventário de produtos utilizados  Anexo I, NR19|01012018|
+2001|Prontuário da Instalação  NR20|01012018|
+2201|Programa de Gerenciamento de Riscos (PGR)  NR22|01012018|
+2202|Programa de Proteção Respiratória (PPR)  NR22|01012018|
+2901|Plano de Controle de Emergência (PCE)  NR29|01012018|
+2902|Plano de Ajuda Mútua (PAM)  NR29|01012018|
+3001|Plano de Emergência  Anexo II, NR30|01012018|
+3002|Livro de Primeiros Socorros  NR30|01012018|
+3201|Programa de Controle de Animais Sinantrópicos  NR32|01012018|
+3202|Plano de Proteção Radiológica (PPR)  NR32|01012018|
+3401|Plano de auto resgate e resgate dos profissionais  NR34|01012018|
+3402|Programa de Proteção Respiratória (PPR)  NR34|01012018|
+3403|Plano de Proteção Radiológica (PPR)  NR34|01012018|
+3501|Plano de Emergência  NR35|01012018|
+3502|Plano de resgate  NR35|01012018|
+3601|Programa de Conservação Auditiva (PCA)  NR36|01012018|

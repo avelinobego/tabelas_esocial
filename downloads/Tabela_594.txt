@@ -1,0 +1,2 @@
+versão=2 Codigo, DESCRICAO, DtInicio, DtFim, Evento, Rubricas, Categoria
+1|Rubricas Usuais no Desligamento do Trabalhador Doméstico|01012014||S-2299|eSocial1720;eSocial3000;eSocial3010;eSocial3020;eSocial3030;eSocial3050;eSocial3060;eSocial3065;eSocial3070;eSocial5050;eSocial5060;eSocial5070;eSocial5090;eSocial5180;eSocial5181;eSocial5190;eSocial5191;eSocial5192|104

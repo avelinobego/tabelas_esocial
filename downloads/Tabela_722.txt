@@ -1,0 +1,7 @@
+versão=2 CODIGO, DESCRICAO, DTINICIO, DTFIM
+1|Reintegração por Decisão Judicial|01012014|
+2|Reintegração por Anistia Legal|01012014|
+3|Reversão de Servidor Público|01012014|
+4|Recondução de Servidor Público|01012014|
+5|Reinclusão de Militar|01012014|
+9|Outros|01012014|

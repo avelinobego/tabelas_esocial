@@ -1,0 +1,26 @@
+versão=1 CODIGO, DESCRICAO, DT_INICIO, DT_FIM, DESCLOT, ORDLOT
+JUSTRAB|TST|01012014||Tribunal Superior do Trabalho|0
+JUSTRAB|TRT1|01012014||Tribunal Regional do Trabalho da 1ª Região|1
+JUSTRAB|TRT2|01012014||Tribunal Regional do Trabalho da 2ª Região|2
+JUSTRAB|TRT3|01012014||Tribunal Regional do Trabalho da 3ª Região|3
+JUSTRAB|TRT4|01012014||Tribunal Regional do Trabalho da 4ª Região|4
+JUSTRAB|TRT5|01012014||Tribunal Regional do Trabalho da 5ª Região|5
+JUSTRAB|TRT6|01012014||Tribunal Regional do Trabalho da 6ª Região|6
+JUSTRAB|TRT7|01012014||Tribunal Regional do Trabalho da 7ª Região|7
+JUSTRAB|TRT8|01012014||Tribunal Regional do Trabalho da 8ª Região|8
+JUSTRAB|TRT9|01012014||Tribunal Regional do Trabalho da 9ª Região|9
+JUSTRAB|TRT10|01012014||Tribunal Regional do Trabalho da 10ª Região|10
+JUSTRAB|TRT11|01012014||Tribunal Regional do Trabalho da 11ª Região|11
+JUSTRAB|TRT12|01012014||Tribunal Regional do Trabalho da 12ª Região|12
+JUSTRAB|TRT13|01012014||Tribunal Regional do Trabalho da 13ª Região|13
+JUSTRAB|TRT14|01012014||Tribunal Regional do Trabalho da 14ª Região|14
+JUSTRAB|TRT15|01012014||Tribunal Regional do Trabalho da 15ª Região|15
+JUSTRAB|TRT16|01012014||Tribunal Regional do Trabalho da 16ª Região|16
+JUSTRAB|TRT17|01012014||Tribunal Regional do Trabalho da 17ª Região|17
+JUSTRAB|TRT18|01012014||Tribunal Regional do Trabalho da 18ª Região|18
+JUSTRAB|TRT19|01012014||Tribunal Regional do Trabalho da 19ª Região|19
+JUSTRAB|TRT20|01012014||Tribunal Regional do Trabalho da 20ª Região|20
+JUSTRAB|TRT21|01012014||Tribunal Regional do Trabalho da 21ª Região|21
+JUSTRAB|TRT22|01012014||Tribunal Regional do Trabalho da 22ª Região|22
+JUSTRAB|TRT23|01012014||Tribunal Regional do Trabalho da 23ª Região|23
+JUSTRAB|TRT24|01012014||Tribunal Regional do Trabalho da 24ª Região|24

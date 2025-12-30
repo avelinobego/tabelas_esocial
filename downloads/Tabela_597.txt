@@ -1,0 +1,9 @@
+versão=4 Codigo, DESCRICAO, DtInicio, DtFim, CATEGORIA, NCATEGORIA, VALOR
+1|Contribuição Previdenciaria|01012014||104||8
+2|GILRAT|01012014||104||0,8
+3|Adicional Hora Extra|01012014||104||50
+4|Adicional Noturno|01012014||104||20
+5|Desconto Dependente IRRF|01012014|31032015|||179,71
+6|Desconto Dependente IRRF|01042015||||189,59
+7|Adicional Viagem|01012014||104||25
+8|Desconto Simplificado IRRF|01052023||||25
