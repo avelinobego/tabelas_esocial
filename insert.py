@@ -4,6 +4,7 @@ if __name__ == "__main__":
     import psycopg
     import re
     from psycopg.rows import tuple_row
+    import os
 
     PASTA = Path("./downloads")
 
@@ -71,12 +72,18 @@ if __name__ == "__main__":
         with conn.cursor() as cur:
 
             for arquivo in PASTA.glob("*.txt"):
-                tabela = arquivo.stem.lower()
+                nome = os.path.basename(arquivo.stem).lower()
+
+                found = re.search(string=nome, pattern=r"^tabela \d+")
+                if found is None:
+                    continue
+
+                tabela = found.group(0).replace(" ", "")
 
                 with arquivo.open(encoding="utf-8") as f:
                     linhas = f.read().splitlines()
 
-                cabecalho = re.sub(r'^versão=\d+\s+', '', linhas[0])
+                cabecalho = re.sub(r"^versão=\d+\s+", "", linhas[0])
 
                 cabecalho = [c.strip() for c in cabecalho.split(",")]
                 dados = [l.split("|") for l in linhas[1:]]
@@ -98,9 +105,6 @@ if __name__ == "__main__":
                     ({", ".join(f'"{c}"' for c in cabecalho)})
                     VALUES ({", ".join("%s" for _ in cabecalho)})
                 '''
-
-                # print(f"------------\n{sql_insert}\n------------------")
-
 
                 registros = [
                     tuple(converter(v, t) for v, t in zip(linha, tipos))
